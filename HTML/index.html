@@ -216,8 +216,15 @@
                             <div class="heading-block topmargin">
                                 <h1>Response</h1>
                             </div>
-                            <div class="button button-border button-dark button-rounded button-large noleftmargin">Upload</div>
-                                <input type="file" id="file" name="files" />
+
+                            <input type="file" id="file" name="files" style="display:none;"/>
+                            <div class="button button-border button-dark button-rounded button-large noleftmargin" value="Upload" onClick="thisFileUpload();">Upload
+                            </div>
+                            <script>
+                              function thisFileUpload() {
+                                document.getElementById("file").click();
+                              };
+                            </script>
 
 
                           </div>
