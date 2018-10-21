@@ -1,0 +1,9 @@
+Cost of razor: $1.22 
+<br>Cost of blade: $500.00 
+<br>Cost of dell: $102.50 
+<br>Cost of xps: $1109.30 
+<br>Total cost: $1713.02 <br>
+<br>Your remaining balance after this purchase will be $-458.02.
+<br>This purchase costs 136.50% of your overall balance.
+<br>This purchase leaves you with <u>too little</u> disposable income. Please consider removing some items.
+<br>

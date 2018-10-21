@@ -1,0 +1,5 @@
+Transcript: How much did I spend in the last 24 months and in the last six months.<br>
+<br>Your current account balance is $1255.0
+<br>You have spent $18613 in the last 24 months.
+<br>You have spent $18613 in the last 6 months.
+<br>

@@ -1,0 +1,21 @@
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+<div>
+		<h2>Audio record and playback</h2>
+		<p>
+			<button id=startRecord>start</button>
+			<button id=stopRecord disabled>stop</button>
+		</p>
+			<audio id=recordedAudio></audio>
+			<a id=audioDownload>download here</a>
+        <script src="{{url_for('static',filename='recorder.js')}}"></script>
+</div>
+</body>
+
+</html>
